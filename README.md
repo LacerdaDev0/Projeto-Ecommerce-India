@@ -71,7 +71,7 @@ A etapa final foi a construção de um dashboard interativo focado em **UX (User
 ---
 
 ## 🚀 Conclusão e Resultados
-* **Diagnóstico:** Identificamos que cidades como Chennai e Ahmedabad operam no prejuízo, exigindo revisão logística.
+* **Diagnóstico:** Identifiquei que cidades como Chennai e Ahmedabad operam no prejuízo, exigindo revisão logística.
 * **Sazonalidade:** O negócio enfrenta desafios de fluxo de caixa no meio do ano.
 * **Decisão:** O foco estratégico deve ser a otimização de custos na categoria de Eletrônicos para elevar a margem geral de 5,55%.
 
