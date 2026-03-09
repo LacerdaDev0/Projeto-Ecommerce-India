@@ -52,7 +52,10 @@ Essa etapa criei medidas DAX para garantir que o Dashboard fosse dinâmico e seg
 * **Custo** 
 * **Margem %** 
 * **Receita**
+
 ![Consulta Alerta](./images/dax.png)
+
+---
 
 ## 📈 Etapa 4: Visualização e Storytelling (Power BI)
 A etapa final foi a construção de um dashboard interativo focado em **UX (User Experience)** e **Storytelling**.
