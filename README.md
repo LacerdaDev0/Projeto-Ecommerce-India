@@ -32,15 +32,15 @@ Identificação do volume financeiro gerado por categoria de produto.
 
 ### 📈 **Análise de Lucratividade**
 Foco em entender onde a operação é realmente rentável e gera valor líquido.
-![Consulta Lucro](./images/image.png)
+![Consulta Lucro](./images/lucro.png)
 
 ### 🎫 **Ticket Médio**
 Cálculo do valor médio gasto por subcategoria para entender o perfil de consumo.
-![Consulta Ticket Médio](./images/image2.png)
+![Consulta Ticket Médio](./images/ticket.png)
 
 ### ⚠️ **Identificação de Alertas (Prejuízo)**
 Consulta avançada para filtrar pedidos com alta quantidade de itens que resultaram em prejuízo, visando identificar falhas operacionais.
-![Consulta Alerta](./images/image3.png)
+![Consulta Alerta](./images/prejuizo.png)
 
 ---
 
