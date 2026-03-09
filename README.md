@@ -44,7 +44,17 @@ Consulta avançada para filtrar pedidos com alta quantidade de itens que resulta
 
 ---
 
-## 📈 Etapa 3: Visualização e Storytelling (Power BI)
+## 📈 Etapa 3: Criação de Medidas Dax
+Essa etapa criei medidas DAX para garantir que o Dashboard fosse dinâmico e seguisse as melhores práticas de mercado, desenvolvi as métricas fundamentais utilizando a linguagem **DAX (Data Analysis Expressions)**. O uso de medidas em vez de colunas calculadas garante maior performance ao relatório..
+
+### **Principais Medidas:**
+* **Lucro** 
+* **Custo** 
+* **Margem %** 
+* **Receita**
+![Consulta Alerta](./images/dax.png)
+
+## 📈 Etapa 4: Visualização e Storytelling (Power BI)
 A etapa final foi a construção de um dashboard interativo focado em **UX (User Experience)** e **Storytelling**.
 
 ### **Principais Insights Visualizados:**
@@ -53,7 +63,7 @@ A etapa final foi a construção de um dashboard interativo focado em **UX (User
 * **Regionalismo:** Identificação das cidades com maior e menor eficiência.
 * **Mix de Custos:** Decomposição visual dos custos por categoria (*Electronics, Clothing, Furniture*).
 
-![Dashboard Final](./images/image_dc24d0.jpg)
+![Dashboard Final](./images/dashboard.png)
 
 ---
 
